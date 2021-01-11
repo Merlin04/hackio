@@ -1,0 +1,107 @@
+{
+    "info": {
+        "description": "TSOT-23-6 package"
+    },
+    "pins": {
+        "1": {
+            "layout": {
+                "pad": "pad",
+                "location": [
+                    -1.31,
+                    0.95
+                ]
+            }
+        },
+        "2": {
+            "layout": {
+                "pad": "pad",
+                "location": [
+                    -1.31,
+                    0
+                ]
+            }
+        },
+        "3": {
+            "layout": {
+                "pad": "pad",
+                "location": [
+                    -1.31,
+                    -0.95
+                ]
+            }
+        },
+        "4": {
+            "layout": {
+                "pad": "pad",
+                "location": [
+                    1.31,
+                    -0.95
+                ]
+            }
+        },
+        "5": {
+            "layout": {
+                "pad": "pad",
+                "location": [
+                    1.31,
+                    0
+                ]
+            }
+        },
+        "6": {
+            "layout": {
+                "pad": "pad",
+                "location": [
+                    1.31,
+                    0.95
+                ]
+            }
+        }
+    },
+    "layout": {
+        "silkscreen": {
+            "shapes": [
+                {
+                    "type": "rect",
+                    "width": 3.3,
+                    "height": 2.0,
+                    "location": [
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        "assembly": {
+            "shapes": [
+                {
+                    "type": "rect",
+                    "width": 1.76,
+                    "height": 2.9,
+                    "location": [
+                        0,
+                        0
+                    ]
+                }
+            ]
+        }
+    },
+    "pads": {
+        "pad": {
+            "shapes": [
+                {
+                    "type": "rect",
+                    "outline": 0,
+                    "width": 1.22,
+                    "height": 0.65,
+                    "radii": {
+                        "bl": 0.05,
+                        "br": 0.05,
+                        "tl": 0.05,
+                        "tr": 0.05
+                    }
+                }
+            ]
+        }
+    }
+}

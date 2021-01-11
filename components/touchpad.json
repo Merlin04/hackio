@@ -1,0 +1,35 @@
+{
+    "pins": {
+        "1": {
+            "layout": {
+                "pad": "pad",
+                "location": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "layout": {
+        "silkscreen": {
+            "shapes": []
+        },
+        "assembly": {
+            "shapes": []
+        }
+    },
+    "pads": {
+        "pad": {
+            "shapes": [
+                {
+                    "type": "path",
+                    "layers": [
+                        "top"
+                    ],
+                    "style": "fill",
+                    "value": "m -11.747538,14.36112 h 5.2334466 l 3.3803571,0.497533 6.475e-4,4.810874 h -8.6167052 z"
+                }
+            ]
+        }
+    }
+}

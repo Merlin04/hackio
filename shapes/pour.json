@@ -1,0 +1,18 @@
+{
+    "layout":
+    {
+      "pours":
+      {
+        "shapes":
+        [
+          {
+            "type": "layer",
+            "layers": [
+                "bottom",
+                "top"
+            ]
+          }
+        ]
+      }
+    }
+  }

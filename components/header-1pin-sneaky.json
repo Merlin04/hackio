@@ -1,0 +1,46 @@
+{
+  "pins": {
+    "1": {
+      "layout": {
+        "pad": "pin",
+        "location": [
+          0.0,
+          0.127
+        ]
+      }
+    }
+  },
+  "layout": {
+    "silkscreen": {
+      "shapes": []
+    },
+    "assembly": {
+      "shapes": [
+        {
+          "type": "rect",
+          "width": 2.54,
+          "height": 1.8
+        }
+      ]
+    }
+  },
+  "pads": {
+    "pin": {
+      "shapes": [
+        {
+          "layers": [
+            "top",
+            "bottom"
+          ],
+          "type": "circle",
+          "diameter": 1.9
+        }
+      ],
+      "drills": [
+        {
+          "diameter": 1
+        }
+      ]
+    }
+  }
+}
